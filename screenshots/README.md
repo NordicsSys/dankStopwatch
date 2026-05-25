@@ -1,11 +1,10 @@
 # Screenshots
 
-Place development screenshots here when publishing or documenting Dank Stopwatch.
+DMS screenshots for Dank Stopwatch.
 
-Suggested captures:
+## Gallery
 
-- Horizontal DankBar pill while stopped
-- Horizontal DankBar pill while running
-- Vertical DankBar pill
-- Expanded stopwatch toolbar with laps
-- Settings panel
+- `stopwatch-ready.png` - expanded toolbar in ready state
+- `stopwatch-running.png` - expanded toolbar while running
+- `stopwatch-laps.png` - expanded toolbar with latest-first laps
+- `stopwatch-settings.png` - plugin settings panel
