@@ -2,9 +2,20 @@
 
 DMS screenshots for Dank Stopwatch.
 
-## Gallery
+## Important Screenshots
 
-- `stopwatch-ready.png` - expanded toolbar in ready state
-- `stopwatch-running.png` - expanded toolbar while running
-- `stopwatch-laps.png` - expanded toolbar with latest-first laps
-- `stopwatch-settings.png` - plugin settings panel
+### Ready State
+
+![Dank Stopwatch ready state](./stopwatch-ready.png)
+
+### Running State
+
+![Dank Stopwatch running state](./stopwatch-running.png)
+
+### Lap List
+
+![Dank Stopwatch lap list](./stopwatch-laps.png)
+
+### Settings
+
+![Dank Stopwatch settings panel](./stopwatch-settings.png)
