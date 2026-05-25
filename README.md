@@ -2,6 +2,20 @@
 
 Dank Stopwatch is a modern glassmorphic stopwatch pill for DankMaterialShell. It adds a compact DankBar widget with elapsed time and a polished popout for controls, lap tracking, and copying the current time.
 
+## Screenshots
+
+### Ready State
+
+![Dank Stopwatch ready state](./screenshots/stopwatch-ready.png)
+
+### Running With Laps
+
+![Dank Stopwatch running with laps](./screenshots/stopwatch-laps.png)
+
+### Settings
+
+![Dank Stopwatch settings panel](./screenshots/stopwatch-settings.png)
+
 ## Features
 
 - Compact horizontal and vertical DankBar pills
