@@ -2,6 +2,12 @@
 
 Dank Stopwatch is a modern glassmorphic stopwatch pill for DankMaterialShell. It adds a compact DankBar widget with elapsed time and a polished popout for controls, lap tracking, and copying the current time.
 
+## What this solves
+
+Keep timing and lap controls in the desktop bar while you work. This project demonstrates a compact QML interface, timing state, clipboard integration, and theme-aware DankMaterialShell components.
+
+[Developer portfolio](https://nikaj.dev) · [Discuss a custom tool](mailto:contact@nikaj.dev)
+
 ## Screenshots
 
 ### Ready State
